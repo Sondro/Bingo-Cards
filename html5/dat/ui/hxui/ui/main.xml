@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vbox id="main">
+    <style source="../css/main.css" />
+
+    <script>
+       
+    </script>
+		<dropdown text="DropDown"/>
+		<dropdown text="DropDown"/>
+		<textarea width="200" height="150" text="TextArea: \n L2 \n L3 \n L4 \n L5 \n L6"/>
+</vbox>
